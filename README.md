@@ -2,7 +2,6 @@
 
 **usePopcorn** is a simple and interactive React-based application that allows users to search for movies, view detailed information, rate them, and maintain a personal watchlist.
 
-![usePopcorn Screenshot](./screenshot.png) <!-- Optional: Add screenshot path if available -->
 
 ## 🚀 Features
 
